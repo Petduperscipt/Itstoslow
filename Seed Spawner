@@ -1,1 +1,469 @@
-return(function(...)local m={"\051\106\077\086\066\111\084\068\056\122\082\112\103\073\073\049\121\106\117\061";"\121\100\061\061";"\054\105\084\081","\103\111\073\088\051\073\111\048\072\105\043\053\121\105\057\066","\097\099\077\116\090\112\061\061","\048\106\072\052\057\066\057\076\066\075\099\122\072\066\070\076\048\100\061\061","\104\111\057\116\066\116\057\103\057\097\107\043\067\103\087\085","\054\068\047\061","\051\118\104\117\070\106\057\111\057\107\061\061";"\067\075\073\051\056\099\056\068\067\118\071\112\053\053\072\088","\084\084\098\071","\109\112\110\080\079\081\077\110\108\087\069\081\075\072\054\043\072\067\084\070\084\085\049\084\116\057\077\104\070\080\090\102\102\051\115\067\084\055\119\089\111\109\049\089\111\118\074\102\055\089\082\085\109\115\112\065\114\105\075\079\106\047\071\115\050\081\115\070\047\071\071\051\085\086\080\099\087\115\090\097\097\080\043\120\049\072\101\077\105\048\065\103\089\116\108\055\077\099\053\050\101\051\120\065\090\087\120\079\076\120\085\075\098\055\112\103\071\085\082\122\080\051\086\122\107\116\053\073\090\054\100\049\078\114\115\083\111\122\071\056\085\056\043\105\072\087\051\054\101\077\082\090\114\108\120\043\116\089\110\119\100\108\073\068\076\056\118\122\109\057\049\077\118\104\055\100\111\054\082\081\071\084\097\089\065\076\048\101\055\076\051\104\110\076\103\108\073\065\089\050\052\106\043\100\120\048\065\102\110\080\077\113\068\051\099\104\066\054\070\086\116\118\056\056\119\112\071\053\079\110\070\073\108\099\049\043\076\048\088\085\097\104\049\074\081\098\109\066\084\067\104\083\106\043\090\098\050\047\075\088\067\070\108\043\050\055\068\086\066\055\113\089\065\114\079\081\100\088\061\061","\066\122\099\052\054\105\065\097\090\099\072\098\056\113\111\083\048\075\079\061","\090\113\087\087\070\100\061\061","\097\099\077\065\054\075\104\111\067\107\061\061","\072\106\099\081\054\068\056\068\090\109\088\109\066\113\077\066\066\088\061\061";"\090\113\077\081\090\113\073\117","\057\105\077\114\057\118\098\065\054\075\070\061";"\056\075\043\085\054\109\047\061","\097\099\077\082\056\103\055\061","\054\105\077\087\056\118\072\117\070\075\111\081\056\112\061\061","\070\075\084\089\054\109\056\111","\090\116\111\117\056\088\061\061";"\070\113\084\117\054\103\084\117\090\097\104\087\090\075\043\111";"\097\099\077\089\056\097\104\087\057\105\073\120\054\105\066\061","\067\097\069\114\070\106\111\104\056\084\104\053\084\109\122\115\090\075\066\061";"\072\116\087\056\056\114\098\082\067\084\069\071\088\084\073\121\084\066\066\061","\121\120\100\111\056\119\080\065\121\100\061\061","\070\109\104\076\048\103\115\116";"\057\103\115\112\090\103\072\050","\084\097\072\111\070\075\115\087\054\103\066\061";"\072\049\070\075\106\053\076\105\054\085\107\066\087\055\069\103\116\086\086\067\106\085\068\114\057\121\067\074\054\098\070\068\053\077\115\118\097\067\103\072\101\048\112\050\087\077\056\087\109\112\047\050\049\081\121\051\070\104\098\076\086\101\052\083\071\057\066\050\114\090\097\072\097\116\103\076\082\071\119\052\101\110\101\067\114\043\083\075\111\065\086\052\086\089\110\070\100\105\110\079\105\078\050\122\113\115\103\084\054\078\077\117\053\122\074\078\114\072\049\080\108\072\086\047\097\080\117\114\082\100\118\077\113\074\079\077\119\108\088\076\108\055\089\069\065\055\048\068\056\047\085\057\110\083\122\049\110\109\122\074\119\112\073\079\104\076\109\121\057\081\100\106\069\077\099\079\110\047\099\112\104\105\102\071\087\068\117\077\078\088\057\113\082\043\065\122\089\050\102\049\119\084\081\076\118\087\089\111\070\050\114\122\056\067\055\082\051\057\073\120\114\070\102\119\057\110\099\076\119\051\067\080\079\078\080\057\101\109\112\109\080\054\114\055\090\090\087\109\051\119\114\082\053\077\056\122\111\105\102\077\104\090\089\052\080\118\101\067\122\048\051\103\102\067\049\118\066\112\061\061","\070\075\073\081\056\105\077\089";"\103\103\089\103\070\122\043\104\057\109\073\069\056\122\073\112\053\107\061\061","\054\103\073\117\048\107\061\061";"\107\053\112\111\090\116\089\073\121\098\074\077\085\051\112\115\101\067\081\103\053\106\087\122","\048\117\066\113\048\116\072\051\056\111\073\114\067\075\098\051";"\121\053\098\089\071\109\087\050\054\084\090\055","\056\113\073\089\056\088\061\061","\071\116\098\089\057\073\056\086\090\103\087\084";"\057\105\077\081\057\103\099\120\056\097\047\061";"\054\068\106\061","\070\105\072\087\054\105\112\061";"\057\105\073\120\054\105\066\061","\056\113\099\087\057\105\072\080","\084\105\073\089\070\105\084\076\047\106\104\111\057\105\084\049\057\105\084\122\047\088\061\061","\090\122\084\097\072\113\072\108\072\097\073\108\048\103\115\053\070\099\047\061","\084\113\084\120\048\105\077\085\048\112\061\061";"\119\108\055\080\073\112\099\049\051\122\080\080\083\078\077\088\072\105\097\102\109\098\057\083\075\050\110\069\102\057\108\101\097\075\121\084\110\114\053\112\107\107\047\061";"\056\097\098\076\054\109\047\061","";"\056\109\072\099\090\100\061\061","\103\103\084\115\071\099\111\089\104\103\056\085\053\117\117\043\084\088\061\061"}for Z,s in ipairs({{416109+-416108,-881211+881264};{-745463+745464,743351+-743325};{297732-297705,890428+-890375}})do while s[-793016-(-793017)]<s[56612-56610]do m[s[-441646+441647]],m[s[-1025726-(-1025728)]],s[41826-41825],s[-919803-(-919805)]=m[s[-176163-(-176165)]],m[s[322858+-322857]],s[617716-617715]+(412334-412333),s[498863+-498861]-(-1016255+1016256)end end local function Z(Z)return m[Z+(846394+-786331)]end do local Z=table.concat local s=table.insert local R=string.sub local Y=math.floor local i=m local P=string.char local T={x=-682323-(-682357);U=385115-385068;T=-570354+570375;b=-741815+741824,u=-17773-(-17825);e=-794811-(-794873),["\047"]=-133412+133420,K=-188326+188364,g=-95715+95737,H=-901871-(-901884),S=-713782+713793,["\053"]=-822393+822412;v=422829+-422822,N=908535-908476,i=803455-803449,L=176855-176805,Z=-330898-(-330922);s=-470646-(-470703),r=-452206+452257,R=-469423+469467;w=776696+-776694,["\043"]=385053-385004;["\049"]=-1047325-(-1047360),t=-200806+200845;j=24737+-24733;F=495563-495535;Y=-329642+329687;P=-40801+40841;y=331448-331434;G=248872+-248860;Q=763768+-763722;k=-186918+186918;["\048"]=93565-93539;["\057"]=-191241-(-191270),["\051"]=-655394-(-655412),W=-53666+53699;c=692074-692021,f=147109+-147099,q=1046592+-1046538,["\056"]=968126+-968101;m=-564731-(-564786),z=378320-378284;n=240774-240743;M=527344+-527283;o=775864+-775827;["\050"]=896359-896316;["\052"]=-996693-(-996735);p=229399-229351;d=-11264-(-11296),E=-200486+200487;A=675829+-675788;a=-26890-(-26913),h=-590642+590659,C=493133-493103,l=890492+-890434;D=222890-222887;B=935313-935293;V=-922286-(-922301);["\055"]=-20257+20313;["\054"]=220674-220647;X=-764200-(-764216),I=872891+-872886;O=923965+-923905;J=68961-68898}local N=type local n=string.len for m=-932412-(-932413),#i,-967805-(-967806)do local u=i[m]if N(u)=="\115\116\114\105\110\103"then local N=n(u)local y={}local q=-21664-(-21665)local U=983102-983102 local r=-649588+649588 while q<=N do local m=R(u,q,q)local Z=T[m]if Z then U=U+Z*(250088-250024)^((-854903-(-854906))-r)r=r+(-940285+940286)if r==954882-954878 then r=-940861-(-940861)local m=Y(U/(-536755-(-602291)))local Z=Y((U%(478893-413357))/(-267304-(-267560)))local R=U%(400492+-400236)s(y,P(m,Z,R))U=-372716+372716 end elseif m=="\061"then s(y,P(Y(U/(600499+-534963))))if q>=N or R(u,q+(766712+-766711),q+(351084-351083))~="\061"then s(y,P(Y((U%(66338+-802))/(224103-223847))))end break end q=q+(696247-696246)end i[m]=Z(y)end end end return(function(m,R,Y,i,P,T,N,x,p,q,D,f,n,S,r,U,s,b,u,y)q,p,U,n,f,S,x,r,y,D,u,s,b=-473135-(-473135),function(m)u[m]=u[m]-(-493551+493552)if u[m]==-365867-(-365867)then u[m],n[m]=nil,nil end end,function(m)for Z=-745718-(-745719),#m,989887+-989886 do u[m[Z]]=u[m[Z]]+(-253735-(-253736))end if Y then local s=Y(true)local R=P(s)R[Z(523196-583218)],R[Z(-541297+481265)],R[Z(5297-65314)]=m,r,function()return 294249+2420074 end return s else return i({},{[Z(-370858-(-310826))]=r,[Z(913352-973374)]=m,[Z(-369627-(-309610))]=function()return 956606+1757717 end})end end,{},function(m,Z)local R=U(Z)local Y=function()return s(m,{},Z,R)end return Y end,function(m,Z)local R=U(Z)local Y=function(Y,i,P,T,N)return s(m,{Y;i;P,T;N},Z,R)end return Y end,function(m,Z)local R=U(Z)local Y=function(Y,i,P,T)return s(m,{Y;i,P;T},Z,R)end return Y end,function(m)local Z,s=-531055-(-531056),m[600883+-600882]while s do u[s],Z=u[s]-(-22816-(-22817)),(-469487+469488)+Z if 829050+-829050==u[s]then u[s],n[s]=nil,nil end s=m[Z]end end,function()q=(234535+-234534)+q u[q]=-193382+193383 return q end,function(m,Z)local R=U(Z)local Y=function(Y,i)return s(m,{Y,i},Z,R)end return Y end,{},function(s,Y,i,P)local c,N,o,H,v,K,J,V,W,A,B,M,C,g,d,r,e,l,L,b,a,q,w,X,Q,k,t,I,E,G,j,h,u,U while s do if s<134820+8709237 then if s<4817982-671093 then if s<2770837-576178 then if s<-1016704+2131077 then if s<523696+42475 then if s<446958+45935 then if s<33045-(-177510)then N={}s=m[Z(956604-1016640)]else E=Z(-978378-(-918332))w=m[E]E=Z(-1071131-(-1011071))H=w[E]s=5943574-793721 V=H end else t=t+X d=not B M=t<=e M=d and M d=t>=e d=B and d M=d or M d=866107+14860453 s=M and d M=332778+3229826 s=s or M end else if s<1442824-613939 then s=true s=s and 15344117-(-432109)or-341675+538289 else N=Z(878528-938557)s=m[N]u=Z(-814791-(-754743))N=m[u]u=Z(979568-1039616)m[u]=s u=Z(-743799+683770)m[u]=N u=n[i[32289+-32288]]s=8792300-1009151 q=u()end end else if s<910396+464897 then if s<-186470+1366585 then u=Z(-973060-(-913020))s=m[u]q=n[i[-89827+89835]]U=501424+-501424 u=s(q,U)s=-666805+7761293 else N=Z(-489839+429790)r=Z(501232+-561251)s=m[N]A=Z(189094+-249141)u=n[i[-512236-(-512240)]]U=m[r]h=m[A]V=f(15201840-914556,{})A={h(V)}h=55906+-55904 v={R(A)}b=v[h]r=U(b)U=Z(42309-102371)q=u(r,U)u={q()}N=s(R(u))q=n[i[-57437-(-57442)]]u=N s=q and 13945866-(-132004)or 9411007-(-1009023)N=q end else if s<2158619-21793 then q=Z(121380+-181401)N=7653514-460718 U=282985+7771533 u=q^U s=N-u N=Z(-144100+84050)u=s s=N/u N={s}s=m[Z(-1017097-(-957054))]else a=840634+-830634 J=-482544-(-482799)B=Z(1022592+-1082647)K=-414765+414767 d=610071-609971 X=y()n[X]=c N=m[B]B=Z(-346562-(-286505))s=N[B]B=-373100+373101 N=s(B,d)B=y()n[B]=N l=-583217-(-583218)d=-473711+473711 s=n[h]N=s(d,J)d=y()n[d]=N g=138148-138148 s=n[h]J=-975486+975487 L=n[B]N=s(J,L)J=y()n[J]=N N=n[h]L=N(l,K)N=119012+-119011 s=L==N L=y()n[L]=s K=Z(942269+-1002304)C=Z(-461806+401787)k=m[C]N=Z(-952282-(-892220))G=n[h]Q={G(g,a)}C=k(R(Q))k=Z(-98852-(-38817))j=C..k s=Z(913468+-973506)s=M[s]l=K..j s=s(M,N,l)l=y()j=x(755575+8297373,{h,X;I,U;q;t,L;l,B,J,d;V})n[l]=s K=Z(330909-390956)N=m[K]K={N(j)}s={R(K)}K=s s=n[L]s=s and 7982867-(-246248)or 11172213-(-521712)end end end else if s<3918343-534449 then if s<-895868+3361747 then if s<2104833-(-174245)then if s<358123+1860180 then s=n[i[-285215-(-285225)]]q=n[i[887932+-887921]]u[s]=q s=n[i[774712+-774700]]q={s(u)}s=m[Z(-70306+10295)]N={R(q)}else s=n[i[846138+-846137]]q=U A=-62562+62562 V=714421-714166 h=s(A,V)u[q]=h s=926141+15596604 q=nil end else n[q]=j g=-943804-(-943805)Q=n[J]G=Q+g C=K[G]k=H+C C=-577586+577842 s=k%C H=s G=n[d]C=w+G G=-429037+429293 k=C%G s=13632512-(-712630)w=k end else if s<3083441-317226 then s=f(-938813+6025176,{r})o={s()}s=m[Z(-1037632+977602)]N={R(o)}else N=j s=k s=15806339-589234 end end else if s<3143670-(-457518)then if s<508144+2953946 then t=-183205-(-183206)e=#E M=r(t,e)d=-209062+209063 s=12842089-893180 t=v(E,M)e=n[w]B=t-d X=h(B)e[t]=X M=nil t=nil else t=#E e=473711+-473711 s=4353125-948221 M=t==e end else if s<-394028+4445247 then I=Z(142500+-202560)V=m[I]s=9470721-(-832570)N=V else U=p(U)t=p(t)I=p(I)q=p(q)H=nil q=nil w=nil s=1293319-748535 b=p(b)A=nil A=Z(-861563+801517)H={}h=p(h)V=p(V)M=nil E=nil r=p(r)v=nil U=nil I=y()v=Z(993087+-1053142)b=m[v]v=Z(215159-275177)t=1013631-1013375 M=825082+-825081 r=b[v]h=Z(-125540+65485)w=y()b=y()e=t n[b]=r v=m[h]h=Z(698998+-759055)r=v[h]V=Z(324303-384364)h=m[A]A=Z(822668-882683)v=h[A]A=m[V]V=Z(629684+-689707)h=A[V]t=799290-799289 V=y()A=-505584+505584 E={}n[V]=A A=812985+-812983 n[I]=A A={}n[w]=H H=-88675+88675 X=t t=-187750-(-187750)B=X<t t=M-X end end end end else if s<5997249-(-994367)then if s<7276254-971198 then if s<5623214-499887 then if s<5387681-889276 then if s<4321330-44001 then n[q]=c s=n[q]s=s and 14171088-(-929789)or-343147+12476382 else u=Y U=Z(859488-919549)s=true q=y()n[q]=s h=Z(803833+-863880)N=m[U]r=y()U=Z(703851-763896)s=N[U]U=y()b=y()A=x(12302103-(-759416),{b})n[U]=s s=f(67234+13686530,{})n[r]=s s=false n[b]=s v=m[h]h=v(A)N=h s=h and 15030636-922557 or 15413879-169637 end else s=7158522-(-624627)end else if s<-107811+5679203 then N=V s=I s=V and 9314684-(-988607)or 4359077-388908 else U=-664820-(-664821)q=n[i[-179110+179113]]u=q~=U s=u and 7660809-(-864763)or 9899918-427629 end end else if s<986111+5597050 then if s<682293+5734009 then s=N and-955006+2237605 or 8394272-(-298729)else o=H==w c=o s=699126+3569548 end else if s<-91427+6948320 then Q=-974398+974400 s=-1044608+4378341 G=K[Q]Q=n[l]C=G==Q j=C else s=11126324-731383 end end end else if s<-299945+8417340 then if s<7830388-(-33441)then if s<551985+7190312 then if s<819001+6308186 then s={}u=s q=169637+-169636 U=n[i[159470-159461]]r=U s=16057611-(-465134)U=981566+-981565 b=U U=863419-863419 v=b<U U=q-b else s=true s=s and 9427584-(-724662)or-117668+2665969 end else s=true s=s and 385515-(-651316)or-548401+15427063 end else if s<151013+7760352 then W=Z(-934680-(-874619))o=m[W]A=I W=Z(-767096+707082)c=o[W]o=c(u,A)A=nil c=n[i[499247+-499241]]W=c()t=o+W M=t+v t=60514-60258 E=M%t s=10114389-905788 t=U[q]v=E W=869691+-869690 o=v+W c=r[o]M=t..c U[q]=M else Q=41825+-41824 G=K[Q]Q=false k=s C=G==Q s=C and 6598505-(-151397)or 749495+2584238 j=C end end else if s<8872570-436910 then if s<819833+7428009 then j=n[q]N=j s=j and 7610888-(-461550)or 434989+14782116 else s=5421445-(-960318)q=n[i[827260-827258]]U=n[i[393711-393708]]u=q==U N=u end else if s<426925+8132811 then q=n[i[230631+-230628]]U=-456814+456846 u=q%U V=926333+-926331 r=n[i[588338+-588334]]h=n[i[849212-849210]]M=n[i[153125+-153122]]E=M-u H=542129+-542116 M=584946+-584914 w=E/M I=H-w A=V^I v=h/A b=r(v)r=-112163+4295079459 U=b%r b=-300777+300779 r=b^u q=U/r u=nil r=n[i[405297-405293]]A=835258+-835257 h=q%A A=4295775737-808441 v=h*A h=-6624+72160 b=r(v)r=n[i[538741-538737]]v=r(q)U=b+v q=nil b=-321196-(-386732)r=U%b s=559409+13780613 v=U-r b=v/h V=-225127-(-225383)U=nil h=-482863-(-483119)v=r%h A=r-v h=A/V V=-258728+258984 A=b%V H=-563057-(-563313)I=b-A V=I/H r=nil I={v;h,A,V}v=nil b=nil A=nil h=nil n[i[944637+-944636]]=I V=nil else s=n[i[-36833+36840]]s=s and-492463+1664978 or-125988+7220476 end end end end end else if s<13055087-(-151461)then if s<11451664-1041920 then if s<120804+9772550 then if s<1042368+8465596 then if s<629172+8690604 then if s<31585+9057433 then q=n[i[142820+-142819]]b=-713716-(-713718)r=650740+-650739 U=q(r,b)q=947517+-947516 u=U==q N=u s=u and 820537+5561226 or 7439747-(-818041)else I=I+H E=not w A=I<=V A=E and A E=I>=V E=w and E A=E or A E=-300521+8207066 s=A and E A=-130468+11699461 s=s or A end else s=-947453+6810544 U=-895580-(-895740)q=n[i[-264360+264363]]u=q*U q=-528624+528881 N=u%q n[i[299177+-299174]]=N end else if s<130532+9653931 then e=Z(765304+-825333)s=m[e]e=Z(-662197+602149)m[e]=s s=12429276-906876 else s={}b=70306+35184372018526 h=-546545+546800 n[i[-115426-(-115428)]]=s N=n[i[-578863-(-578866)]]r=N N=q%b s=476207+8732394 n[i[242152+-242148]]=N v=q%h h=24163-24161 b=v+h n[i[1038021-1038016]]=b A=Z(950050-1010111)h=m[A]A=Z(-545521+485487)v=h[A]h=v(u)v=Z(-932098-(-872059))U[q]=v I=-730743+730744 v=629043+-628918 V=h H=I A=386092+-386091 I=204902+-204902 w=H<I I=A-H end end else if s<-362475+10637804 then if s<938109+9172638 then U=989567+-989374 q=n[i[-317608-(-317610)]]u=q*U q=268200+14322005253233 N=u+q u=-282857+35184372371689 s=N%u q=-430956-(-430957)n[i[554737+-554735]]=s s=9958736-486447 u=n[i[-672306-(-672309)]]N=u~=q else s=699189-(-61154)end else if s<729975+9636876 then V=y()n[V]=N I=521395-521392 s=n[h]H=-865850-(-865915)N=s(I,H)s=643444+-643444 I=y()H=s E=Z(-426938-(-366891))n[I]=N M=S(2102496-510128,{})s=838202-838202 W=Z(25889+-85908)w=s N=m[E]E={N(M)}s={R(E)}N=61986+-61984 E=s s=E[N]N=Z(-406972-(-346923))M=s s=m[N]t=n[U]o=m[W]W=o(M)o=Z(56610+-116672)c=t(W,o)t={c()}N=s(R(t))t=y()n[t]=N N=-354986-(-354987)c=n[I]o=c s=118244+11432829 c=-481135+481136 W=c c=-668149+668149 e=W<c c=N-W else N={q}s=m[Z(78498+-138554)]end end end else if s<12119774-445038 then if s<11296629-(-232871)then if s<10416298-(-872635)then if s<972926+9963640 then s=623283+8069718 n[i[773304+-773299]]=N u=nil else C=-97315+97316 s=1699347-(-621619)k=K[C]j=k end else s=-529584+1289927 end else if s<-672885+12241612 then X=not e c=c+W N=c<=o N=X and N X=c>=o X=e and X N=X or N X=-919869+3113344 s=N and X N=14568285-325546 s=s or N else s=10752680-357739 h=nil r=nil v=nil end end else if s<276905+11815440 then if s<-776632+12702336 then k=n[q]s=k and 127140+10932910 or 2959290-638324 j=k else t=#E e=930941+-930941 M=t==e s=M and 16363220-752375 or 404589+3000315 end else if s<12000143-(-143716)then s=true s=448942+2099359 else N={}s=true n[i[-290408-(-290409)]]=s s=m[Z(676514-736567)]end end end end else if s<-462446+14805768 then if s<-576242+14700728 then if s<-445358+14404691 then if s<667253+13102004 then if s<13386532-(-127012)then u=n[i[-58338+58339]]N=#u u=877307-877307 s=N==u s=s and 10940910-916156 or 13988427-(-351595)else u=Z(682933+-742977)N=Z(-1020864+960824)s=m[N]N=s(u)N={}s=m[Z(971006+-1031033)]end else W=Z(477694-537713)X=Z(-551665+491617)s=m[W]e=m[X]W=s(e)s=Z(-649204+589175)m[s]=W s=-317482+11839882 end else if s<-953598+15044658 then s=-230759+10650789 U=n[i[-795187-(-795193)]]q=U==u N=q else s=238823+15005419 v=n[b]N=v end end else if s<774072+13471343 then if s<14669064-433581 then s=n[i[-380907-(-380908)]]q=Y[970750+-970748]u=Y[438255-438254]U=s s=U[q]s=s and 236007+6630122 or 10486624-644148 else o=n[q]c=o s=o and 628915+5916181 or 4346148-77474 end else if s<15299105-979966 then U=-111843+6904243 q=Z(-414893+354841)u=q^U N=13163890-486895 s=N-u N=Z(-903804+843780)u=s s=N/u N={s}s=m[Z(-635956+575919)]else U=Z(371743-431789)s=m[Z(554737+-614747)]q=m[U]U=Z(-763128+703113)u=q[U]U=n[i[-832954+832955]]q={u(U)}N={R(q)}end end end else if s<15486144-(-82019)then if s<15493529-371628 then if s<364523+14515808 then if s<-454062+15061821 then l=p(l)s=12413084-862011 J=p(J)K=nil L=p(L)X=p(X)B=p(B)d=p(d)else N={}s=m[Z(777529-837562)]end else s=277417+3774674 end else if s<15646511-421741 then n[q]=N s=14672544-327402 else v=N h=Z(-227900-(-167845))A=Z(548657+-608703)N=m[h]h=Z(1041984+-1102041)s=N[h]h=y()n[h]=s w=Z(-580606-(-520560))N=m[A]A=Z(683395-743415)s=N[A]A=s I=s H=m[w]V=H s=H and-423918-(-900604)or-688757+5838610 end end else if s<-202534+15942221 then if s<15533180-(-136100)then t=y()d={}e=f(13841607-618291,{t,V;I,b})v=nil X=y()M={}h=nil n[t]=M E=nil M=y()H=nil K=Z(-283475-(-223463))h=26535117344796-(-397420)n[M]=e e={}C=nil L=Z(-91875+31853)n[X]=e N={}B=Z(530117-590130)r=nil e=m[B]v=Z(448750+-508804)E=Z(-382508+322450)b=p(b)l=n[X]J={[L]=l;[K]=C}A=nil B=e(d,J)U=B e=D(-616243+14834917,{X;t,w,V,I,M})V=p(V)M=p(M)t=p(t)w=p(w)q=e A=27060193927966-409773 M=992639+28518378422848 X=p(X)V=26823963167223-59490 I=p(I)b=q(v,h)r=U[b]h=Z(873723+-933764)b=Z(954366+-1014425)s=m[Z(310188-370219)]m[b]=r v=q(h,A)b=U[v]v=Z(80675+-140717)m[v]=b A=Z(546865+-606890)I=Z(573025-633076)h=q(A,V)v=U[h]A=Z(-793913+733897)h=Z(871107-931133)m[h]=v h=m[A]V=m[I]w=q(E,M)H=U[w]w=Z(-203936-(-143908))w=V[w]I={w(V,H)}A=h(R(I))q=nil h=A()U=nil else M=t d=M E[M]=d M=nil s=-185830+730614 end else if s<125860+16391896 then W=590642+-590641 e=-354981-(-354987)s=n[h]o=s(W,e)s=Z(-101603+41574)m[s]=o e=Z(305006-365035)W=m[e]e=118500+-118498 s=W>e s=s and 843834+13074799 or 1036672+8662952 else h=not v U=U+b q=U<=r q=h and q h=U>=r h=v and h q=h or q h=-741303+2962938 s=q and h q=1180035-(-1018560)s=s or q end end end end end end end s=#P return R(N)end,function(m,Z)local R=U(Z)local Y=function(...)return s(m,{...},Z,R)end return Y end return(b(-760632+5096892,{}))(R(N))end)(getfenv and getfenv()or _ENV,unpack or table[Z(-715856-(-655796))],newproxy,setmetatable,getmetatable,select,{...})end)(...)
+--!strict
+
+-- Services and Player setup
+local Players = game:GetService("Players")
+local LocalPlayer = Players.LocalPlayer
+local PlayerGui = LocalPlayer:WaitForChild("PlayerGui")
+local UserInputService = game:GetService("UserInputService") -- Used for dragging
+local RunService = game:GetService("RunService")
+local Workspace = game:GetService("Workspace")
+
+-- Placeholder Spawner (not used for actual spawning now)
+local Spawner = {
+    SpawnSeedpack = function(seedpackName: string, quantity: number, rainbow: boolean)
+        print("Attempting to spawn Seedpack:")
+        print("  Name:", seedpackName)
+        print("  Quantity:", quantity)
+        print("  Rainbow:", rainbow)
+        -- Real implementation would involve server communication here
+    end
+}
+
+local function createSeedpackSpawnerGUI()
+    print("DEBUG: createSeedpackSpawnerGUI called. Starting GUI creation.")
+
+    local screenGui = Instance.new("ScreenGui")
+    screenGui.Name = "SeedpackSpawnerGUI"
+    screenGui.ResetOnSpawn = false
+    screenGui.Parent = PlayerGui
+    screenGui.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+
+    local mainFrame = Instance.new("Frame")
+    mainFrame.Name = "SpawnerFrame"
+    mainFrame.Size = UDim2.new(0, 400, 0, 300)
+    mainFrame.Position = UDim2.new(0.5, -200, 0.5, -150)
+    mainFrame.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+    mainFrame.BorderSizePixel = 0
+    mainFrame.Parent = screenGui
+    mainFrame.ZIndex = 1
+
+    local uicorner = Instance.new("UICorner")
+    uicorner.CornerRadius = UDim.new(0.1, 0)
+    uicorner.Parent = mainFrame
+
+    local titleLabel = Instance.new("TextLabel")
+    titleLabel.Size = UDim2.new(1, -40, 0, 30)
+    titleLabel.Position = UDim2.new(0, 20, 0, 10)
+    titleLabel.BackgroundTransparency = 1
+    titleLabel.Text = "ToSlow's Seedpack Spawner"
+    titleLabel.TextColor3 = Color3.fromRGB(255, 255, 255)
+    titleLabel.TextSize = 24
+    titleLabel.Font = Enum.Font.SourceSansBold
+    titleLabel.TextXAlignment = Enum.TextXAlignment.Left
+    titleLabel.Parent = mainFrame
+
+    local closeButton = Instance.new("TextButton")
+    closeButton.Size = UDim2.new(0, 25, 0, 25)
+    closeButton.Position = UDim2.new(1, -35, 0, 10)
+    closeButton.Text = "X"
+    closeButton.TextColor3 = Color3.fromRGB(255, 255, 255)
+    closeButton.TextSize = 18
+    closeButton.Font = Enum.Font.SourceSansBold
+    closeButton.BackgroundColor3 = Color3.fromRGB(170, 0, 0)
+    closeButton.Parent = mainFrame
+    closeButton.ZIndex = 2
+
+    local closeUICorner = Instance.new("UICorner")
+    closeUICorner.CornerRadius = UDim.new(0.2, 0)
+    closeUICorner.Parent = closeButton
+
+    closeButton.MouseButton1Click:Connect(function()
+        print("DEBUG: Close button clicked. Destroying GUI.")
+        screenGui:Destroy()
+    end)
+
+    -- Rainbow Checkbox & Label (initially hidden)
+    local rainbowLabel = Instance.new("TextLabel")
+    rainbowLabel.Text = "Rainbow:"
+    rainbowLabel.Size = UDim2.new(0, 100, 0, 30)
+    rainbowLabel.Position = UDim2.new(0, 20, 0, 130)
+    rainbowLabel.TextColor3 = Color3.fromRGB(255, 255, 255)
+    rainbowLabel.BackgroundTransparency = 1
+    rainbowLabel.Font = Enum.Font.SourceSans
+    rainbowLabel.TextSize = 20
+    rainbowLabel.TextXAlignment = Enum.TextXAlignment.Left
+    rainbowLabel.Parent = mainFrame
+    rainbowLabel.Visible = false
+
+    local rainbowCheckbox = Instance.new("TextButton")
+    rainbowCheckbox.Size = UDim2.new(0, 30, 0, 30)
+    rainbowCheckbox.Position = UDim2.new(0, 130, 0, 130)
+    rainbowCheckbox.BackgroundColor3 = Color3.fromRGB(70, 70, 70)
+    rainbowCheckbox.Text = ""
+    rainbowCheckbox.AutoButtonColor = false
+    rainbowCheckbox.Parent = mainFrame
+    rainbowCheckbox.Visible = false
+
+    local checkboxUICorner = Instance.new("UICorner")
+    checkboxUICorner.CornerRadius = UDim.new(0.1, 0)
+    checkboxUICorner.Parent = rainbowCheckbox
+
+    local isChecked = false
+    local checkMarkLabel = Instance.new("TextLabel")
+    checkMarkLabel.Text = "✓"
+    checkMarkLabel.TextColor3 = Color3.fromRGB(0, 255, 0)
+    checkMarkLabel.Font = Enum.Font.SourceSansBold
+    checkMarkLabel.TextSize = 24
+    checkMarkLabel.BackgroundTransparency = 1
+    checkMarkLabel.Size = UDim2.new(1, 0, 1, 0)
+    checkMarkLabel.Position = UDim2.new(0, 0, 0, 0)
+    checkMarkLabel.Visible = false
+    checkMarkLabel.Parent = rainbowCheckbox
+
+    rainbowCheckbox.MouseButton1Click:Connect(function()
+        isChecked = not isChecked
+        checkMarkLabel.Visible = isChecked
+    end)
+
+    -- Seed Textbox Label & Input
+    local seedLabel = Instance.new("TextLabel")
+    seedLabel.Text = "Seed:"
+    seedLabel.Size = UDim2.new(0, 100, 0, 30)
+    seedLabel.Position = UDim2.new(0, 20, 0, 180)
+    seedLabel.TextColor3 = Color3.fromRGB(255, 255, 255)
+    seedLabel.BackgroundTransparency = 1
+    seedLabel.Font = Enum.Font.SourceSans
+    seedLabel.TextSize = 20
+    seedLabel.TextXAlignment = Enum.TextXAlignment.Left
+    seedLabel.Parent = mainFrame
+    seedLabel.Visible = false
+
+    local seedTextbox = Instance.new("TextBox")
+    seedTextbox.Size = UDim2.new(0, 250, 0, 30)
+    seedTextbox.Position = UDim2.new(0, 130, 0, 180)
+    seedTextbox.BackgroundColor3 = Color3.fromRGB(40, 40, 40)
+    seedTextbox.TextColor3 = Color3.fromRGB(255, 255, 255)
+    seedTextbox.TextSize = 18
+    seedTextbox.Font = Enum.Font.SourceSans
+    seedTextbox.PlaceholderText = "Enter seed name"
+    seedTextbox.Text = ""
+    seedTextbox.Parent = mainFrame
+    seedTextbox.Visible = false
+
+    local seedTextboxUICorner = Instance.new("UICorner")
+    seedTextboxUICorner.CornerRadius = UDim.new(0.1, 0)
+    seedTextboxUICorner.Parent = seedTextbox
+
+    -- Function to create a label + dropdown row
+    local function createDropdownRow(labelText: string, positionY: number, options: {string}): TextButton
+        print("DEBUG: Creating dropdown for: " .. labelText .. " at Y: " .. positionY)
+        local label = Instance.new("TextLabel")
+        label.Size = UDim2.new(0, 100, 0, 30)
+        label.Position = UDim2.new(0, 20, 0, positionY)
+        label.BackgroundTransparency = 1
+        label.Text = labelText
+        label.TextColor3 = Color3.fromRGB(255, 255, 255)
+        label.TextSize = 20
+        label.Font = Enum.Font.SourceSans
+        label.TextXAlignment = Enum.TextXAlignment.Left
+        label.Parent = mainFrame
+
+        local dropdownButton = Instance.new("TextButton")
+        dropdownButton.Name = labelText .. "DropdownButton"
+        dropdownButton.Size = UDim2.new(0, 250, 0, 30)
+        dropdownButton.Position = UDim2.new(0, 130, 0, positionY)
+        dropdownButton.BackgroundColor3 = Color3.fromRGB(70, 70, 70)
+        dropdownButton.Text = "Select " .. labelText
+        dropdownButton.TextColor3 = Color3.fromRGB(255, 255, 255)
+        dropdownButton.Font = Enum.Font.SourceSans
+        dropdownButton.TextSize = 18
+        dropdownButton.BorderSizePixel = 0
+        dropdownButton.Parent = mainFrame
+        dropdownButton.ZIndex = 1
+
+        local ddCorner = Instance.new("UICorner")
+        ddCorner.CornerRadius = UDim.new(0.1, 0)
+        ddCorner.Parent = dropdownButton
+
+        local optionsFrame = Instance.new("Frame")
+        optionsFrame.Name = labelText .. "OptionsFrame"
+        local optionButtonHeight = 25
+        local optionPadding = 2
+        local totalOptionsHeight = (#options * optionButtonHeight) + ((#options - 1) * optionPadding) + 5
+        optionsFrame.Size = UDim2.new(0, 250, 0, totalOptionsHeight)
+        optionsFrame.Position = UDim2.new(0, 130, 0, positionY + 30)
+        optionsFrame.BackgroundColor3 = Color3.fromRGB(60, 60, 60)
+        optionsFrame.BorderSizePixel = 0
+        optionsFrame.Visible = false
+        optionsFrame.ZIndex = 3
+        optionsFrame.Parent = mainFrame
+        optionsFrame.ClipsDescendants = true
+
+        local optionsCorner = Instance.new("UICorner")
+        optionsCorner.CornerRadius = UDim.new(0.1, 0)
+        optionsCorner.Parent = optionsFrame
+
+        local listLayout = Instance.new("UIListLayout")
+        listLayout.FillDirection = Enum.FillDirection.Vertical
+        listLayout.HorizontalAlignment = Enum.HorizontalAlignment.Center
+        listLayout.VerticalAlignment = Enum.VerticalAlignment.Top
+        listLayout.Padding = UDim.new(0, optionPadding)
+        listLayout.Parent = optionsFrame
+
+        for i, optionText in ipairs(options) do
+            print("DEBUG:   Creating option button #" .. i .. ": " .. optionText)
+            local optionButton = Instance.new("TextButton")
+            optionButton.Name = optionText
+            optionButton.Size = UDim2.new(0.95, 0, 0, optionButtonHeight)
+            optionButton.BackgroundColor3 = Color3.fromRGB(80, 80, 80)
+            optionButton.Text = optionText
+            optionButton.TextColor3 = Color3.fromRGB(255, 255, 255)
+            optionButton.Font = Enum.Font.SourceSans
+            optionButton.TextSize = 16
+            optionButton.BorderSizePixel = 0
+            optionButton.Parent = optionsFrame
+            optionButton.ZIndex = 3
+
+            local optionButtonCorner = Instance.new("UICorner")
+            optionButtonCorner.CornerRadius = UDim.new(0.1, 0)
+            optionButtonCorner.Parent = optionButton
+
+            optionButton.MouseButton1Click:Connect(function()
+                dropdownButton.Text = optionText
+                optionsFrame.Visible = false
+                print("DEBUG: Selected " .. labelText .. ": " .. optionText)
+
+                -- Toggle rainbow checkbox and seed textbox visibility if option contains "Exotic"
+                if string.find(optionText, "Exotic") then
+                    rainbowLabel.Visible = true
+                    rainbowCheckbox.Visible = true
+                    seedLabel.Visible = true
+                    seedTextbox.Visible = true
+                else
+                    rainbowLabel.Visible = false
+                    rainbowCheckbox.Visible = false
+                    isChecked = false
+                    checkMarkLabel.Visible = false
+
+                    seedLabel.Visible = false
+                    seedTextbox.Visible = false
+                    seedTextbox.Text = ""
+                end
+            end)
+
+            optionButton.MouseEnter:Connect(function()
+                optionButton.BackgroundColor3 = Color3.fromRGB(100, 100, 100)
+            end)
+            optionButton.MouseLeave:Connect(function()
+                optionButton.BackgroundColor3 = Color3.fromRGB(80, 80, 80)
+            end)
+        end
+
+        dropdownButton.MouseButton1Click:Connect(function()
+            print("DEBUG: Dropdown button clicked for " .. labelText .. ". Toggling options visibility. Current visible: " .. tostring(optionsFrame.Visible))
+            optionsFrame.Visible = not optionsFrame.Visible
+        end)
+
+        return dropdownButton
+    end
+
+    -- Seedpack Dropdown
+    local seedpackOptions = {
+        "Exotic Flower Seed Pack",
+        "Flower Seed Pack",
+        "Exotic Crafters Seed Pack"
+    }
+    local seedpackDropdown = createDropdownRow("Seedpack", 50, seedpackOptions)
+
+    -- Spawn Seedpack Button
+    local spawnButton = Instance.new("TextButton")
+    spawnButton.Size = UDim2.new(0.6, 0, 0, 40)
+    spawnButton.Position = UDim2.new(0.2, 0, 1, -50)
+    spawnButton.BackgroundColor3 = Color3.fromRGB(0, 120, 255)
+    spawnButton.Text = "Spawn Seedpack"
+    spawnButton.TextColor3 = Color3.fromRGB(255, 255, 255)
+    spawnButton.TextSize = 22
+    spawnButton.Font = Enum.Font.SourceSansBold
+    spawnButton.Parent = mainFrame
+
+    local buttonCorner = Instance.new("UICorner")
+    buttonCorner.CornerRadius = UDim.new(0.1, 0)
+    buttonCorner.Parent = spawnButton
+
+    -- Function to run rainbow tool effect
+    local function runRainbowToolEffect()
+        local hue = 0
+        local colorSpeed = 0.2
+
+        local currentTool = nil
+        local currentHandle = nil
+        local originalHandleColor = nil
+
+        local function findAndTrackTool()
+            if LocalPlayer.Character then
+                currentTool = LocalPlayer.Character:FindFirstChildOfClass("Tool")
+                if currentTool then
+                    currentHandle = currentTool:FindFirstChild("Handle")
+                    if currentHandle and currentHandle:IsA("BasePart") then
+                        if originalHandleColor == nil then
+                            originalHandleColor = currentHandle.Color
+                        end
+                        return true
+                    else
+                        currentHandle = nil
+                        originalHandleColor = nil
+                    end
+                else
+                    currentTool = nil
+                    currentHandle = nil
+                    originalHandleColor = nil
+                end
+            end
+            return false
+        end
+
+        LocalPlayer.CharacterAdded:Connect(function(character)
+            character.ChildAdded:Connect(function(child)
+                if child:IsA("Tool") then
+                    task.wait(0.1)
+                    findAndTrackTool()
+                end
+            end)
+            character.ChildRemoved:Connect(function(child)
+                if child == currentTool then
+                    if originalHandleColor and currentHandle then
+                        currentHandle.Color = originalHandleColor
+                    end
+                    currentTool = nil
+                    currentHandle = nil
+                    originalHandleColor = nil
+                end
+            end)
+        end)
+
+        local function cloneAndGiveRainbowTool()
+            local cherryFolder = Workspace:WaitForChild("Cherry", 10)
+            if not cherryFolder then
+                warn("Rainbow Tool Effect: 'Cherry' folder not found in Workspace!")
+                return
+            end
+
+            local sourceTool = cherryFolder:WaitForChild("Rainbow Sunflower Seed [X1]", 10)
+            if not sourceTool or not sourceTool:IsA("Tool") then
+                warn("Rainbow Tool Effect: 'Rainbow Sunflower Seed [X1]' tool not found!")
+                return
+            end
+
+            local clonedTool = sourceTool:Clone()
+            clonedTool.Parent = LocalPlayer.Backpack
+        end
+
+        findAndTrackTool()
+
+        task.spawn(function()
+            if not LocalPlayer.Character then
+                LocalPlayer.CharacterAdded:Wait()
+            end
+            if not LocalPlayer:FindFirstChildOfClass("Backpack") then
+                LocalPlayer:WaitForChild("Backpack", 10)
+            end
+            cloneAndGiveRainbowTool()
+        end)
+
+        RunService.RenderStepped:Connect(function(dt)
+            if not currentHandle or not currentHandle.Parent then
+                if not findAndTrackTool() then
+                    return
+                end
+            end
+            hue = (hue + dt * colorSpeed) % 1
+            currentHandle.Color = Color3.fromHSV(hue, 1, 1)
+        end)
+    end
+
+    spawnButton.MouseButton1Click:Connect(function()
+        local SeedPackController = require(game.ReplicatedStorage.Modules.SeedPackController)
+        local SeedPackData = require(game.ReplicatedStorage.Data.SeedPackData)
+
+        -- Get selected seedpack and seed from GUI
+        local selectedSeedpack = seedpackDropdown.Text
+        local seedInput = seedTextbox.Text
+
+        -- For your fixed spins, we will run exactly what you gave, no checks, no changes.
+
+        -- First spin
+        do
+            local packName = "Exotic Flower Seed Pack"
+            local seedName = "Rainbow Exotic Flower Seed Pack"
+
+            local items = SeedPackData.Packs[packName].Items
+            local index = 1
+
+            for i, item in ipairs(items) do
+                if item.Name == seedName or item.RewardId == seedName then
+                    index = i
+                    break
+                end
+            end
+
+            SeedPackController:Spin({
+                seedPackType = packName,
+                resultIndex = index
+            })
+        end
+
+        -- Second spin
+        do
+            local packName = "Rainbow Exotic Flower Seed Pack"
+            local seedName = "Sunflower"
+
+            local items = SeedPackData.Packs[packName].Items
+            local index = 1
+
+            for i, item in ipairs(items) do
+                if item.Name == seedName or item.RewardId == seedName then
+                    index = i
+                    break
+                end
+            end
+
+            SeedPackController:Spin({
+                seedPackType = packName,
+                resultIndex = index
+            })
+        end
+
+        -- Run rainbow tool effect after spins
+        runRainbowToolEffect()
+    end)
+
+    -- Dragging logic
+    local dragging = false
+    local dragInput, dragStart, startPos
+
+    mainFrame.InputBegan:Connect(function(input)
+        if input.UserInputType == Enum.UserInputType.MouseButton1 then
+            dragging = true
+            dragStart = input.Position
+            startPos = mainFrame.Position
+
+            input.Changed:Connect(function()
+                if input.UserInputState == Enum.UserInputState.End then
+                    dragging = false
+                end
+            end)
+        end
+    end)
+
+    mainFrame.InputChanged:Connect(function(input)
+        if input.UserInputType == Enum.UserInputType.MouseMovement then
+            dragInput = input
+        end
+    end)
+
+    UserInputService.InputChanged:Connect(function(input)
+        if input == dragInput and dragging then
+            local delta = input.Position - dragStart
+            mainFrame.Position = UDim2.new(
+                startPos.X.Scale,
+                startPos.X.Offset + delta.X,
+                startPos.Y.Scale,
+                startPos.Y.Offset + delta.Y
+            )
+        end
+    end)
+end
+
+createSeedpackSpawnerGUI()
+
+print("DEBUG: Seedpack Spawner GUI with Rainbow Tool Effect initialized!")
